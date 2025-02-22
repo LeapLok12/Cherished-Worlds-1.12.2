@@ -1,23 +1,5 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+## Cherished Worlds is a mod that adds the ability to favorite/pin/bookmark certain worlds.
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### When installed, empty star icons will appear next to every world on the select screen. Players can bookmark worlds by clicking on the star next to the world icon.
+
+### Bookmarking worlds will force them to always show up at the top of the world selection list and removes the ability to delete them until they are unmarked. Players can bookmark as many worlds as they want. If there are multiple bookmarked worlds, they will internally be ordered by last played date.
